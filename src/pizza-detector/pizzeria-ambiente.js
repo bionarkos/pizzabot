@@ -368,8 +368,8 @@ const pizzalist = [
         "_id": "milano"
     },
     {
-        "name": "Quattro Fromaggi",
-        "regex": "(Quatt?ro )?Fromag?gi",
+        "name": "Quattro Formaggi",
+        "regex": "(Quatt?ro )?Formag?gi",
         "ingredients": [
             "Tomaten",
             "Käse",
@@ -382,7 +382,7 @@ const pizzalist = [
             "G",
             "P"
         ],
-        "_id": "quattro-fromaggi"
+        "_id": "quattro-formaggi"
     },
     {
         "name": "Provinciale",
